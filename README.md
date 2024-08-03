@@ -1,13 +1,16 @@
 # Library Management System
 
-This is a Library Management System application built using Tkinter and MySQL. It provides an interface for managing library memberships, books, and borrowing records.
+The Library Management System is a comprehensive application designed to streamline and automate the management of library resources. Built using Python with a graphical user interface (GUI) developed in Tkinter, this system provides a user-friendly experience for librarians and staff to efficiently handle various library operations.
 
-## Features
+## Key Features
 
-- Add, update, and delete library member information.
-- Track borrowed books, due dates, and late return fines.
-- Display detailed information about books and members.
-- Integrated with MySQL for data persistence.
+- `Member Management`: The system allows users to add, update, delete, and reset member information. This includes storing personal details such as name, contact information, and membership status.
+
+- `Book Management`: Users can manage the library's book inventory by adding, updating, deleting, and resetting book details. This includes storing information such as title, author, genre, ISBN, and availability status.
+
+- `Transaction Management`: The system handles the borrowing and returning of books. It automatically calculates due dates based on the borrowing date and the standard loan period, and it tracks late returns to calculate fines.
+
+- `Records Display`: All records, including member information, book details, and transaction histories, are displayed in a tabular format for easy viewing and management. This feature ensures that users can quickly find and review the information they need.
 
 ## Installation
 
