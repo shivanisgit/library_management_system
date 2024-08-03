@@ -76,6 +76,3 @@ This is a Library Management System application built using Tkinter and MySQL. I
 
 Feel free to submit issues and enhancement requests.
 
-## License
-
-This project is licensed under the MIT License.
